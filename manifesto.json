@@ -1,6 +1,6 @@
 {
-  "versao": "2026.11.05.6",
-  "notas": "Referências de cultura pop, transição suave entre cenas, som de troca mais discreto, áudio sem estalos",
-  "zip": "https://raw.githubusercontent.com/cauamotta2709-lgtm/escdark/main/escritorio-virtual-2026.11.05.6.zip",
-  "sha256": "da501659e3a891f48c5c6a8158f479e05932db3694e22438fb5908e19f5d91bc"
+  "versao": "2026.11.05.7",
+  "notas": "Agente Referências no escritório, botão de pausar/retomar a produção e biblioteca de vídeos (já publicado apaga após 3 dias)",
+  "zip": "https://raw.githubusercontent.com/cauamotta2709-lgtm/escdark/main/escritorio-virtual-2026.11.05.7.zip",
+  "sha256": "b54b1d726cd0b52c1bd0f9dda3e35cfe33c66aaef5c7c054de1248d308d6ef87"
 }
