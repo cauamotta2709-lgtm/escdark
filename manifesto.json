@@ -1,6 +1,6 @@
 {
-  "versao": "2026.11.05.3",
-  "notas": "Painel novo em 3D com mais informações (painel antigo em /classico)",
-  "zip": "https://raw.githubusercontent.com/cauamotta2709-lgtm/escdark/main/escritorio-virtual-2026.11.05.3.zip",
-  "sha256": "812c12ff632413449813854a953269ae16cd220b4ae2cd289cedecfcb842d166"
+  "versao": "2026.11.05.4",
+  "notas": "Imagens: tela dividida só como último recurso; limpeza automática dos vídeos antigos",
+  "zip": "https://raw.githubusercontent.com/cauamotta2709-lgtm/escdark/main/escritorio-virtual-2026.11.05.4.zip",
+  "sha256": "845ce2816e50988da35e15c3798787ff5a5430adb973e0b6cab0039950110f7d"
 }
