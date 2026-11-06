@@ -1,6 +1,6 @@
 {
-  "versao": "2026.11.06.2",
-  "notas": "Imagens que combinam com cada cena, sem som de sopro nas trocas de imagem",
-  "zip": "https://raw.githubusercontent.com/cauamotta2709-lgtm/escdark/main/escritorio-virtual-2026.11.06.2.zip",
-  "sha256": "944d29fe46164489899d1409af9ddbb0aa6920f7db29ee23c41276493b01d001"
+  "versao": "2026.11.06.3",
+  "notas": "Cloudflare: para de insistir quando a cota do dia acaba e reparte as imagens de IA entre os vídeos",
+  "zip": "https://raw.githubusercontent.com/cauamotta2709-lgtm/escdark/main/escritorio-virtual-2026.11.06.3.zip",
+  "sha256": "5939dcb0aeda2bdc0b1e2c3d6aa979d1bd159791891fea1b7d67f3e61c20b5be"
 }
