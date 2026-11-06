@@ -1,6 +1,6 @@
 {
-  "versao": "2026.11.06.1",
-  "notas": "2 vídeos por nicho, PC mais leve (vagas para trabalho pesado, prioridade baixa), botão Apagar com Lixeira",
-  "zip": "https://raw.githubusercontent.com/cauamotta2709-lgtm/escdark/main/escritorio-virtual-2026.11.06.1.zip",
-  "sha256": "ec6735e48817c514b2714d80441e349c6abedaacd3c2c3ba90466a0b3ddfc6cd"
+  "versao": "2026.11.06.2",
+  "notas": "Imagens que combinam com cada cena, sem som de sopro nas trocas de imagem",
+  "zip": "https://raw.githubusercontent.com/cauamotta2709-lgtm/escdark/main/escritorio-virtual-2026.11.06.2.zip",
+  "sha256": "944d29fe46164489899d1409af9ddbb0aa6920f7db29ee23c41276493b01d001"
 }
