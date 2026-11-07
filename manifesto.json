@@ -1,6 +1,6 @@
 {
-  "versao": "2026.11.06.4",
-  "notas": "Fontes de imagem em cadeia (NASA, Pexels, Pixabay, Commons, Openverse) com cache em disco, limite de pedidos e troca automática",
-  "zip": "https://raw.githubusercontent.com/cauamotta2709-lgtm/escdark/main/escritorio-virtual-2026.11.06.4.zip",
-  "sha256": "877eae456f21f517130403abf82178f6921f17ff8d5dbad2343acfa713ee4d06"
+  "versao": "2026.11.06.5",
+  "notas": "Relatório das cenas sem imagem (saida/relatorio_imagens.md) e banco de imagens por nicho (canais/<canal>/imagens)",
+  "zip": "https://raw.githubusercontent.com/cauamotta2709-lgtm/escdark/main/escritorio-virtual-2026.11.06.5.zip",
+  "sha256": "dcaa40b61c2a3bd424c5244d9c294049069df53e4d3aeb01cf0a155893a94303"
 }
