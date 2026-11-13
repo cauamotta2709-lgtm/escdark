@@ -1,6 +1,6 @@
 {
-  "versao": "2026.11.11.1",
-  "notas": "Bancos novos (18 roteiros, 32 perguntas, 15 fotos Real ou IA), musica livre automatica com credito, rodada diaria 21h10, canal sem roteiro e pulado, titulo na tela e capa.jpg",
-  "zip": "https://raw.githubusercontent.com/cauamotta2709-lgtm/escdark/main/escritorio-virtual-2026.11.11.1.zip",
-  "sha256": "cf39372210d25615260ee77cdb44f3c89298ba70d0016e954d6f9b7a737a10d3"
+  "versao": "2026.11.13.1",
+  "notas": "Foco em dois canais (quiz de anime e curiosidades gerais), 3 imagens por pergunta com fade sem som, vídeo real do Pexels/Pixabay, IA FLUX.2 com espera da cota, render slow/CRF 17 e controle de qualidade",
+  "zip": "https://raw.githubusercontent.com/cauamotta2709-lgtm/escdark/main/escritorio-virtual-2026.11.13.1.zip",
+  "sha256": "2f903bf3f553c4808362bb99998a36167e9116784e007b018aa3ca05a47133c8"
 }
