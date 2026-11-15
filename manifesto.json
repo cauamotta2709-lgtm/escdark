@@ -1,6 +1,6 @@
 {
-  "versao": "2026.11.15.1",
-  "notas": "Canal único Laboratório Otaku: vídeos de anime 100% feitos por código (motor com mascote, narração edge-tts com tempo de cada palavra, render pelo Node no Edge do Windows); canais antigos parados",
-  "zip": "https://raw.githubusercontent.com/cauamotta2709-lgtm/escdark/main/escritorio-virtual-2026.11.15.1.zip",
-  "sha256": "9a18f36f66bd07bd88ff5d939b57e5943d6b92a8af81a8e2ac26a0b85de80c4d"
+  "versao": "2026.11.15.2",
+  "notas": "Laboratório Otaku: o Roteirista escreve os episódios sozinho a partir de 12 temas pesquisados (HxH, JJK, FMA, Pokémon, Naruto, One Piece); animações genéricas; títulos longos em duas linhas e legenda com espaço certo.",
+  "zip": "https://raw.githubusercontent.com/cauamotta2709-lgtm/escdark/main/escritorio-virtual-2026.11.15.2.zip",
+  "sha256": "5e238bd269071fe236b38fe291fbe7505917ea1be881535efd6a22fc4561e788"
 }
