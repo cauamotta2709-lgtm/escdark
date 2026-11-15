@@ -1,6 +1,6 @@
 {
-  "versao": "2026.11.15.4",
-  "notas": "Refinos do Laboratório Otaku: cenas sem tela vazia antes da palavra-chave, barras mais rápidas, pose de golpe nos impactos e voz mais à frente da música.",
-  "zip": "https://raw.githubusercontent.com/cauamotta2709-lgtm/escdark/main/escritorio-virtual-2026.11.15.4.zip",
-  "sha256": "f69f4e39eedbb61c4beeb62845aefd352caf1b5c24d9d4b0e906d819d25fcb5c"
+  "versao": "2026.11.15.1",
+  "notas": "Canal único Laboratório Otaku: vídeos de anime 100% feitos por código (motor com mascote, narração edge-tts com tempo de cada palavra, render pelo Node no Edge do Windows); canais antigos parados",
+  "zip": "https://raw.githubusercontent.com/cauamotta2709-lgtm/escdark/main/escritorio-virtual-2026.11.15.1.zip",
+  "sha256": "9a18f36f66bd07bd88ff5d939b57e5943d6b92a8af81a8e2ac26a0b85de80c4d"
 }
