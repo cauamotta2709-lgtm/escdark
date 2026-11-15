@@ -1,6 +1,6 @@
 {
-  "versao": "2026.11.13.1",
-  "notas": "Foco em dois canais (quiz de anime e curiosidades gerais), 3 imagens por pergunta com fade sem som, vídeo real do Pexels/Pixabay, IA FLUX.2 com espera da cota, render slow/CRF 17 e controle de qualidade",
-  "zip": "https://raw.githubusercontent.com/cauamotta2709-lgtm/escdark/main/escritorio-virtual-2026.11.13.1.zip",
-  "sha256": "2f903bf3f553c4808362bb99998a36167e9116784e007b018aa3ca05a47133c8"
+  "versao": "2026.11.15.1",
+  "notas": "Canal único Laboratório Otaku: vídeos de anime 100% feitos por código (motor com mascote, narração edge-tts com tempo de cada palavra, render pelo Node no Edge do Windows); canais antigos parados",
+  "zip": "https://raw.githubusercontent.com/cauamotta2709-lgtm/escdark/main/escritorio-virtual-2026.11.15.1.zip",
+  "sha256": "9a18f36f66bd07bd88ff5d939b57e5943d6b92a8af81a8e2ac26a0b85de80c4d"
 }
